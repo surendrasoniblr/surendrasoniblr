@@ -1,19 +1,19 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://github.com/surenslab/">
+<a href="https://github.com/surendrasoniblr/">
   <img align="left" alt="Surendra Soni's | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.linkedin.com/in/iamsurendrasoni/">
   <img align="left" alt="Surendra Soni's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://surendra.github.io/">
+<a href="https://surendrasoniblr.github.io/">
   <img align="left" alt="Surendra Soni's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/about-dot-me.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=surenslab)
+![](https://visitor-badge.glitch.me/badge?page_id=surendrasoniblr)
 
 <br />
 
-Hi, I'm [Surendra Soni](https://surendra.github.io/),  🚀 from India that loves to bring ideas to life , currently, I'm working with "EduTech Startup.  Beside's programming, I enjoy watching Web Series, documentaries and movies.
+Hi, I'm [Surendra Soni](https://surendrasoniblr.github.io/),  🚀 from India that loves to bring ideas to life , currently, I'm working with "EduTech Startup Skillbary.  Beside's programming, I enjoy watching Web Series, documentaries and movies.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />
   
@@ -22,7 +22,7 @@ Hi, I'm [Surendra Soni](https://surendra.github.io/),  🚀 from India that love
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning MERN Stack; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@surenslab](https://github.com/surendrasoniblr/);
+- 📫 How to reach me: [@surendrasoniblr](https://github.com/surendrasoniblr/);
 - 📝[Resume](https://surendrasoniblr.github.io/)
 
 **Languages and Tools:**  
