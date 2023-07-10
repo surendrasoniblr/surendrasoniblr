@@ -22,8 +22,8 @@ Hi, I'm [Surendra Soni](https://surendra.github.io/),  🚀 from India that love
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning MERN Stack; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@surenslab](https://github.com/surenslab/);
-- 📝[Resume](https://surendra.github.io/)
+- 📫 How to reach me: [@surenslab](https://github.com/surendrasoniblr/);
+- 📝[Resume](https://surendrasoniblr.github.io/)
 
 **Languages and Tools:**  
 
